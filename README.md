@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://s13.gifyu.com/images/bvAnn.gif" width="820" alt="CmetankaJDD animated title" />
+  <img src="./b_Cinematic_slow-motio.gif" width="820" alt="CmetankaJDD animated title" />
 </p>
 
 <p align="center">
