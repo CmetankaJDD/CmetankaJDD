@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=1800&pause=4000&color=0F172A&center=true&vCenter=true&width=640&lines=CmetankaJDD" alt="CmetankaJDD animated title" />
+</p>
+
+<p align="center">
   <a href="https://github.com/FuryOfMarci"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-475569?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -57,3 +61,9 @@ I work at the intersection of product direction and implementation.
 ---
 
 <p align="center"><i>Open for collaboration on meaningful products and engineering challenges.</i></p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="closing page gif" />
+</p>
+
+<p align="center"><sub>End of transmission.</sub></p>
